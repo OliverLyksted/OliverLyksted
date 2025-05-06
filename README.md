@@ -1,4 +1,4 @@
-👋 Hi, I'm Oliver Tvenstrup Lyksted
+# 👋 Hi, I'm Oliver Tvenstrup Lyksted
 
 🎓 4th semester Computer Science student at KEA (Graduating Jan 2026)  
 ⚽ Former handball player with a passion for teamwork and performance  
