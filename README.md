@@ -38,7 +38,7 @@ Here are some ideas to get you started:# 👋 Hi, I'm Oliver Tvenstrup Lyksted
 
 ## 🔗 Connect With Me
 
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?&style=flat&logo=facebook&logoColor=white)](https://www.facebook.com/oliver.lyksted)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/oliverlyksted)
 [![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?&style=flat&logo=github&logoColor=white)](https://github.com/OliverLyksted)
 
 ---
