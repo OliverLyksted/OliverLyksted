@@ -1,9 +1,4 @@
-## Hi there 👋
-
-
-**OliverLyksted/OliverLyksted** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:# 👋 Hi, I'm Oliver Tvenstrup Lyksted
+👋 Hi, I'm Oliver Tvenstrup Lyksted
 
 🎓 4th semester Computer Science student at KEA (Graduating Jan 2026)  
 ⚽ Former handball player with a passion for teamwork and performance  
