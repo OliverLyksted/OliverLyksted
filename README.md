@@ -29,11 +29,4 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=OliverLyksted&layout=compact&theme=github_dark&hide_border=true)
 
----
 
-## 🔗 Connect With Me
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/oliverlyksted)
-[![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?&style=flat&logo=github&logoColor=white)](https://github.com/OliverLyksted)
-
----
