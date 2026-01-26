@@ -1,18 +1,8 @@
 # 👋 Hi, I'm Oliver Tvenstrup Lyksted
 
-🎓 5th semester Computer Science student at KEA (Graduating Jan 2026)  
-⚽ Handball player with a passion for teamwork and performance  
-🔧 Always improving my backend and data science skills
-
----
-## 🧰 Tech Stack
-
-**Languages**  
-![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=java&logoColor=white)
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
-![HTML](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white)
-![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat&logo=postgresql&logoColor=white)
+🎓 Computer Science graduate from KEA (Graduated Jan 2026)  
+⚽ Handball player with a strong passion for teamwork and performance  
+🔧 Backend- and data-oriented developer, always sharpening my technical skills
 
 **Frameworks & Tools**  
 ![Spring](https://img.shields.io/badge/-Spring-6DB33F?style=flat&logo=spring&logoColor=white)
