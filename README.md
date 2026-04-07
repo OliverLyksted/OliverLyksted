@@ -8,6 +8,7 @@
 
 ## 📊 GitHub Stats
 
-<img src="https://github-readme-stats.vercel.app/api?username=OliverLyksted&show_icons=true&theme=tokyonight&cache_seconds=0" />
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=OliverLyksted&layout=compact&theme=tokyonight&cache_seconds=0" />
+<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=OliverLyksted&show_icons=true&theme=tokyonight" />
+
+<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=OliverLyksted&layout=compact&theme=tokyonight" />
