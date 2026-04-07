@@ -8,6 +8,6 @@
 
 ## 📊 GitHub Stats
 
-![Oliver's GitHub stats](https://github-readme-stats.vercel.app/api?username=OliverLyksted&show_icons=true&rank_icon=github&theme=tokyonight)
+<img src="https://github-readme-stats.vercel.app/api?username=OliverLyksted&show_icons=true&theme=tokyonight&cache_seconds=0" />
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=OliverLyksted&layout=compact&theme=tokyonight)
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=OliverLyksted&layout=compact&theme=tokyonight&cache_seconds=0" />
