@@ -1,19 +1,28 @@
 # 👋 Hi, I'm Oliver Tvenstrup Lyksted
 
-🎓 Computer Science graduate from **KEA** (Jan 2026)
+**Full Stack Developer at Diverge** · **AP Graduate in Computer Science**
+
 🔧 Backend & data-oriented developer interested in **APIs, ML & system design**
 ⚽ Handball player passionate about **teamwork, performance & continuous improvement**
 
 ---
 
-### 🛠️ Tech
+## 🛠️ Tech
 
-**Python · Java · JavaScript · SQL · PostgreSQL · Docker · Git**
+**Languages:** Python · Java · JavaScript · SQL
 
-### 🚀 Interests
+**Backend & Data:** Node.js · REST APIs · PostgreSQL · Docker
 
-Backend development · APIs · Data · Machine Learning · System Design
+**Tools:** Git · GitHub · Linux
 
 ---
 
-📫 **Always open to interesting projects and opportunities.**
+## 🚀 Interests
+
+Backend Development · APIs · Data · Machine Learning · System Design
+
+---
+
+<p align="center">
+  <i>Building things, learning constantly, and always looking for the next challenge.</i>
+</p>
