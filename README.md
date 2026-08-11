@@ -1,14 +1,19 @@
 # 👋 Hi, I'm Oliver Tvenstrup Lyksted
 
-🎓 Computer Science graduate from KEA (Jan 2026)  
-⚽ Handball player with a strong passion for teamwork and performance  
-🔧 Backend- and data-oriented developer with an interest in APIs, ML, and system design
+🎓 Computer Science graduate from **KEA** (Jan 2026)
+🔧 Backend & data-oriented developer interested in **APIs, ML & system design**
+⚽ Handball player passionate about **teamwork, performance & continuous improvement**
 
 ---
 
-## 📊 GitHub Stats
+### 🛠️ Tech
 
-<img src="https://github-readme-stats.vercel.app/api?username=OliverLyksted&show_icons=true&theme=tokyonight" />
+**Python · Java · JavaScript · SQL · PostgreSQL · Docker · Git**
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=OliverLyksted&layout=compact&theme=tokyonight" />
+### 🚀 Interests
 
+Backend development · APIs · Data · Machine Learning · System Design
+
+---
+
+📫 **Always open to interesting projects and opportunities.**
